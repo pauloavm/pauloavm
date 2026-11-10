@@ -64,10 +64,10 @@ Sou **Analista de Dados e BI** com **8+ anos** de experiência na interseção e
 | Projeto | O que mostra | Stack |
 |---|---|---|
 | [**CRM & Telecom Churn Analytics**](https://github.com/pauloavm/crm-telecom-retention-analytics) · [demo](https://crm-telecom.streamlit.app/) | Pipeline ponta a ponta: regra de Grace Period, cohort de retenção, ARPU, dashboard Streamlit e Excel com a mesma spec de KPIs, 50 testes e CI | Python, SQL, Streamlit, Plotly, Excel |
-| [**Banco Fictício: Storytelling com Dados**](https://github.com/pauloavm/banco_storytelling) | Arquitetura Medallion (bronze/silver/gold) e narrativa executiva | Python, Streamlit |
+| [**Banco Fictício: Storytelling com Dados**](https://github.com/pauloavm/banco_storytelling) · [demo](https://storytellingbancosbr.streamlit.app/) | Arquitetura Medallion (bronze/silver/gold) e narrativa executiva | Python, Streamlit |
 | [**Pipeline de Dados Bancários**](https://github.com/pauloavm/Bancario) | 25 anos de transações simuladas, Medallion e KPIs no Databricks | Python, SQL, Databricks |
-| [**Quem sou eu em Dados?**](https://github.com/pauloavm/quem-sou-eu-em-dados) | App que sugere o perfil na área de dados (radar de competências, PDF, Supabase) | Python, Streamlit, Supabase |
-| [**Análise de Condomínios**](https://github.com/pauloavm/condominio_banania) | KPIs financeiros e operacionais em dashboard interativo | Python, Streamlit |
+| [**Quem sou eu em Dados?**](https://github.com/pauloavm/quem-sou-eu-em-dados) · [demo](https://meuperfildedados.streamlit.app/) | App que sugere o perfil na área de dados (radar de competências, PDF, Supabase) | Python, Streamlit, Supabase |
+| [**Análise de Condomínios**](https://github.com/pauloavm/condominio_banania) · [demo](https://condominios.streamlit.app/) | KPIs financeiros e operacionais em dashboard interativo | Python, Streamlit |
 | [**Dashboards de Crédito e Vendas**](https://github.com/pauloavm/Dashboard_cria_tudo) | Dashboards interativos com dados sintéticos: filtros por perfil do cliente, faixa etária e score de crédito | Python, Streamlit |
 
 ---
